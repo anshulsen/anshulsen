@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anshulsen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML CSS and C++
+- 👀 - 🌱 I’m currently learning HTML CSS and C++
 - 💞️ I’m looking to collaborate on code practice and learn 
 - 📫 How to reach me on linkdin linkedin.com/in/anshulsen
 
